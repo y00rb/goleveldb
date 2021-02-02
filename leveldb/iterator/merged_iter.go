@@ -7,9 +7,9 @@
 package iterator
 
 import (
-	"github.com/syndtr/goleveldb/leveldb/comparer"
-	"github.com/syndtr/goleveldb/leveldb/errors"
-	"github.com/syndtr/goleveldb/leveldb/util"
+	"github.com/y00rb/goleveldb/leveldb/comparer"
+	"github.com/y00rb/goleveldb/leveldb/errors"
+	"github.com/y00rb/goleveldb/leveldb/util"
 )
 
 type dir int

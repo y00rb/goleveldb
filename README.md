@@ -104,4 +104,4 @@ defer db.Close()
 Documentation
 -----------
 
-You can read package documentation [here](http:godoc.org/github.com/syndtr/goleveldb).
+You can read package documentation [here](http:godoc.org/github.com/y00rb/goleveldb).
